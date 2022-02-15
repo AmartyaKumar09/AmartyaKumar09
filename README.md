@@ -6,7 +6,7 @@
 
      Gmail- kamartya00@gmail.com  
 
-     Instagram- https://instagram.com/amartya__kumar?utm_medium=copy_link
+     Instagram- https://instagram.com/amartya_kumar09?utm_medium=copy_link
 
 <!---
 AmartyaKumar09/AmartyaKumar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
