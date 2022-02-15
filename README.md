@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
-     Gmail- kamartya00@gmail.com  
+     Gmail- amartyak98@gmail.com  
 
      Instagram- https://instagram.com/amartya_kumar09?utm_medium=copy_link
 
