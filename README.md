@@ -1,8 +1,7 @@
-<h1 align="center">Hello Amartya here</h1>
+# Hello Amartya here
 
-<hr/>
+---
 
-<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
 </div>
@@ -14,7 +13,7 @@
 <br/>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="180" align="right" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4202/4202841.png" width="150" align="right" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=AmartyaKumar09&color=blue)
@@ -27,12 +26,12 @@
 <br/>
 📖 I'm interested in internship opportunities in AI, ML & DS fields
 <br/>
-📫 <a href="mailto:your-email@gmail.com">amartyak98@gmail.com</a>
+📫 <a href="mailto:amartyak98@gmail.com">amartyak98@gmail.com</a>
 
 <br/><br/>
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/amartyakumar09">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://linktr.ee/YOUR_LINKTREE">
@@ -43,12 +42,6 @@
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" />
   </a>
 </div>
 
@@ -117,22 +110,17 @@
 ## 🔝 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/AmartyaKumar09/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=repo1&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/AmartyaKumar09/Telegram_ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Telegram_ChatBot&theme=midnight-purple&hide_border=true" />
   </a>
-  <a href="https://github.com/AmartyaKumar09/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=repo2&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/AmartyaKumar09/Ec0Hero-clientbase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Ec0Hero-clientbase&theme=midnight-purple&hide_border=true" />
   </a>
   <br/>
-  <a href="https://github.com/AmartyaKumar09/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=repo3&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/AmartyaKumar09/Text-to-Image">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Text-to-Image&theme=midnight-purple&hide_border=true" />
   </a>
-  <a href="https://github.com/AmartyaKumar09/repo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=repo4&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/AmartyaKumar09/CareerWise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=CareerWise&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
-
-<!---
-AmartyaKumar09/AmartyaKumar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
