@@ -1,3 +1,8 @@
+<h1 align="center">Hello Amartya here</h1>
+
+<hr/>
+
+<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
 </div>
@@ -22,9 +27,7 @@
 <br/>
 📖 I'm interested in internship opportunities in AI, ML & DS fields
 <br/>
-📫 <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
-<br/>
-🕸️ <a href="#">My Portfolio</a>
+📫 <a href="mailto:your-email@gmail.com">amartyak98@gmail.com</a>
 
 <br/><br/>
 
