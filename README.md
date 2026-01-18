@@ -24,7 +24,7 @@
 <br/>
 🍇 Looking for collaborators on DS and MLOps projects
 <br/>
-📖 I'm interested in internship opportunities in AI, ML & DS fields
+📖 I'm interested in job opportunities in AI, ML & DS fields
 <br/>
 📫 <a href="mailto:amartyak98@gmail.com">amartyak98@gmail.com</a>
 
