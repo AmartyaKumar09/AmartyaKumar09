@@ -99,11 +99,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaKumar09&layout=compact&theme=midnight-purple&hide_border=true" height="170" alt="languages graph" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
   <img src="https://streak-stats.demolab.com?user=AmartyaKumar09&theme=midnight-purple&hide_border=true" height="170" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaKumar09&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaKumar09&show_icons=true&theme=midnight-purple&hide_border=true" height="170" alt="stats graph" />
 </div>
 
 <br/>
