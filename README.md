@@ -104,7 +104,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AmartyaKumar09&theme=midnight-purple&hide_border=true" height="170" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaKumar09&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaKumar09&show_icons=true&theme=midnight-purple&hide_border=true&hide_rank=true" height="170" alt="stats graph" />
 </div>
 
 <br/>
@@ -112,31 +112,10 @@
 ## 🔝 Top Repositories
 
 <div align="center">
-
   <a href="https://github.com/AmartyaKumar09/Telegram_ChatBot">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Telegram_ChatBot&theme=midnight-purple&hide_border=true" />
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Telegram_ChatBot&theme=midnight-purple&hide_border=true" />
   </a>
-
   <a href="https://github.com/AmartyaKumar09/Ec0Hero-clientbase">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Ec0Hero-clientbase&theme=midnight-purple&hide_border=true" />
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Ec0Hero-clientbase&theme=midnight-purple&hide_border=true" />
   </a>
-
-  <br/>
-
-  <a href="https://github.com/AmartyaKumar09/Text-to-Image">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Text-to-Image&theme=midnight-purple&hide_border=true" />
-
-  </a>
-
-  <a href="https://github.com/AmartyaKumar09/My-Drumkit">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=My-Drumkit&theme=midnight-purple&hide_border=true" />
-
-  </a>
-
 </div>
