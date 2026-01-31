@@ -46,9 +46,7 @@ AmartyaKumar09@github:~$ ./welcome.sh
       <br />
       🎵 Music: <b>[Desi Pop], [Retro]</b>
       <br />
-      ⚡ Fun fact: <b>I prefer tabs over spaces</b> 🛑
-      <br />
-      💾 Total commits: <b>1,024</b>
+      ⚡ Fun fact: <b>I prefer tabs over spaces</b> 
       <br />
       <br />
       <img src="https://placehold.co/30x30/FFDAB9/FFDAB9.png" width="30" height="30" alt="Peach"/>
