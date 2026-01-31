@@ -1,121 +1,86 @@
-# Hello Amartya here
+```bash
+AmartyaKumar09@github:~$ ./welcome.sh
 
----
-
+ _______________________________________
+< Welcome to my personal github page! >
+ ---------------------------------------
+        \
+         \   |\__/,|   (`\
+          \_.|o o  |_   ) )
+            -(((---(((--------
+```
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
+<table>
+  <tr>
+    <td valign="center" width="40%">
+      <div align="center">
+        <img src="https://github.com/AmartyaKumar09/AmartyaKumar09/blob/main/fd4f4caf65fd1fcf1692009dcc371c66.jpg?raw=true" width="90%" alt="Profile Picture" />
+      </div>
+    </td>
+    <td valign="center" width="60%">
+      <code><font size="4">AmartyaKumar09@github</font></code>
+      <img src="https://komarev.com/ghpvc/?username=AmartyaKumar09&label=Views&color=blue&style=flat" align="right" alt="Profile Views" />
+      <br />
+      <code>-------------------------</code>
+      <br />
+      <br />
+      👨‍💻 <b>Software Engineer based in [India]</b>
+      <br />
+      🔎 Main interests in <b>[Gen AI] & [Graphic Design]</b>
+      <br />
+      🔧 Working on <b>[Tensorflow]</b>
+      <br />
+      🌱 Learning about <b>[Neural Network]</b>
+      <br />
+      🔗 Connect with me:<b><a href="https://www.linkedin.com/in/amartyakumar09/"> LinkedIn</a></b>
+      <br />
+      ☀️ Main languages: <b>Python, JavaScript, Java</b>
+      <br />
+      🏴‍☠️ Currently involved in <b>[Software Development]</b>
+      <br />
+      🛡️ Interested in <b>[Neural Network] and [Gen AI]</b>
+      <br />
+      💘 Powered by <b>Coffee and VS Code</b>
+      <br />
+      🖌️ Hobbies: <b>[Digital Art], [Chess], [Travelling]</b>
+      <br />
+      🎵 Music: <b>[Desi Pop], [Retro]</b>
+      <br />
+      ⚡ Fun fact: <b>I prefer tabs over spaces</b> 🛑
+      <br />
+      💾 Total commits: <b>1,024</b>
+      <br />
+      <br />
+      <img src="https://placehold.co/30x30/FFDAB9/FFDAB9.png" width="30" height="30" alt="Peach"/>
+      <img src="https://placehold.co/30x30/E34234/E34234.png" width="30" height="30" alt="Red"/>
+      <img src="https://placehold.co/30x30/FFF5E0/FFF5E0.png" width="30" height="30" alt="Cream"/>
+      <img src="https://placehold.co/30x30/5A4A42/5A4A42.png" width="30" height="30" alt="Brown"/>
+      <img src="https://placehold.co/30x30/FFC1B6/FFC1B6.png" width="30" height="30" alt="Skin"/>
+    </td>
+  </tr>
+</table>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=false&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</a>
+```bash
+AmartyaKumar09@github:~$ sudo echo "*/1 * * * * /usr/local/bin/killbugs" >> /tmp/crontab$$
 
-<br/>
+[sudo] Password for user: **********
 
-<div align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/4202/4202841.png" width="150" align="right" />
-</div>
+Killing bugs in code...
+              
+       \`*-.    [me]
+        )  _`-.
+       .  : `. .
+       : _   '  \
+       ; *` _.   `*-._
+       `-.-'          `-.
+         ;       `       `.
+         :.       .        \
+         . \  .   :   .-'   .
+         '  `+.;  ;  '      :
+         :  '  |    ;       ;-.
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*'
+      `*-* `*-* `*-*'
 
-![](https://komarev.com/ghpvc/?username=AmartyaKumar09&color=blue)
-
-👀 I am an Artificial Intelligence and Data Science enthusiast
-<br/>
-🤖 Currently practicing Machine Learning and its applications
-<br/>
-🍇 Looking for collaborators on DS and MLOps projects
-<br/>
-📖 I'm interested in job opportunities in AI, ML & DS fields
-<br/>
-📫 <a href="mailto:amartyak98@gmail.com">amartyak98@gmail.com</a>
-
-<br/><br/>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amartyakumar09">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/749550653075882024">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-## 👩‍💻 Tech Stack
-
-**Languages and tools I work with**
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-</div>
-
-<br/>
-
-**Python libraries I expertise in**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Matplotlib-3E4F63?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C566A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</div>
-
-<br/>
-
-## 📈 Profile Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaKumar09&layout=compact&theme=midnight-purple&hide_border=true" height="170" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmartyaKumar09&theme=midnight-purple&hide_border=true" height="170" alt="streak graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaKumar09&show_icons=true&theme=midnight-purple&hide_border=true&hide_rank=true" height="170" alt="stats graph" />
-</div>
-
-<br/>
-
-## 🔝 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/AmartyaKumar09/Telegram_ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Telegram_ChatBot&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/AmartyaKumar09/Ec0Hero-clientbase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmartyaKumar09&repo=Ec0Hero-clientbase&theme=midnight-purple&hide_border=true" />
-  </a>
-</div>
+```
