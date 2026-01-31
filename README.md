@@ -1,5 +1,5 @@
 ```bash
-AmartyaKumar09@github:~$ ./welcome.sh
+user@github:~$ ./welcome.sh
 
  _______________________________________
 < Welcome to my personal github page! >
@@ -60,7 +60,7 @@ AmartyaKumar09@github:~$ ./welcome.sh
 </div>
 
 ```bash
-AmartyaKumar09@github:~$ sudo echo "*/1 * * * * /usr/local/bin/killbugs" >> /tmp/crontab$$
+user@github:~$ sudo echo "*/1 * * * * /usr/local/bin/killbugs" >> /tmp/crontab$$
 
 [sudo] Password for user: **********
 
