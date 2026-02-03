@@ -12,7 +12,7 @@ user@github:~$ ./welcome.sh
 <div align="center">
 <table>
   <tr>
-    <td valign="center" width="40%">
+    <td valign="center" width="30%">
       <div align="center">
         <img src="https://github.com/AmartyaKumar09/AmartyaKumar09/blob/main/fd4f4caf65fd1fcf1692009dcc371c66.jpg?raw=true" width="90%" alt="Profile Picture" />
       </div>
